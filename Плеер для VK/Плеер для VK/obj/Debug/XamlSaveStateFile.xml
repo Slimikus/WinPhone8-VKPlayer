@@ -1,4 +1,6 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\прогинг\winphone8-vkplayer\плеер для vk\плеер для vk\obj\debug\intermediatexaml\плеер для vk.exe" HashGuid="3bd1085a-5856-230b-694f-12388515fff8" />
+    <ReferenceAssembly PathName="d:\прогинг\vk-windowsphone-sdk-master\vk.windowsphone.sdk-xaml\bin\debug\vk.windowsphone.sdk-xaml.dll" HashGuid="d68b3819-8ca2-fbb1-7f59-8f20d48de073" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

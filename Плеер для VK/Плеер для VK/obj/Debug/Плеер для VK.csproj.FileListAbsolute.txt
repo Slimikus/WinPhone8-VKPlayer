@@ -1,0 +1,11 @@
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\Плеер для VK.csprojResolveAssemblyReference.cache
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\App.g.i.cs
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\App.g.cs
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\MainPage.g.i.cs
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\MainPage.g.cs
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\XamlTypeInfo.g.cs
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\App.xaml
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\MainPage.xaml
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\App.xbf
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\MainPage.xbf
+D:\Прогинг\WinPhone8-VKPlayer\Плеер для VK\Плеер для VK\obj\Debug\XamlSaveStateFile.xml
